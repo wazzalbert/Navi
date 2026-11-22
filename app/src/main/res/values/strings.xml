@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NAVI</string>
+    <string name="widget_label">NAVI</string>
+    <string name="widget_description">Terminal NAVI: status tautan, jam, AI core, dan pesan terakhir.</string>
+
+    <!-- Sapaan widget -->
+    <string name="greeting_morning">SELAMAT PAGI, %1$s</string>
+    <string name="greeting_afternoon">SELAMAT SIANG, %1$s</string>
+    <string name="greeting_evening">SELAMAT SORE, %1$s</string>
+    <string name="greeting_night">SELAMAT MALAM, %1$s</string>
+
+    <!-- Status widget -->
+    <string name="status_online">● ONLINE</string>
+    <string name="status_offline">○ OFFLINE</string>
+    <string name="status_word_online">ONLINE</string>
+    <string name="status_word_offline">OFFLINE</string>
+    <string name="widget_core_format">AI CORE: %1$s</string>
+    <string name="widget_message_format">&gt; %1$s</string>
+    <string name="widget_default_message">Tautan NAVI siap. Ketuk BUKA LINK untuk memulai.</string>
+    <string name="widget_open_button">[ BUKA LINK ]</string>
+    <string name="widget_open_description">Buka percakapan NAVI</string>
+
+    <!-- Teks contoh (pratinjau widget dan layout awal) -->
+    <string name="widget_sample_greeting">SELAMAT PAGI, OPERATOR</string>
+    <string name="widget_sample_core">AI CORE: STANDBY</string>
+    <string name="widget_sample_message">&gt; Tautan NAVI siap. Ketuk BUKA LINK untuk memulai.</string>
+
+    <!-- Layar utama -->
+    <string name="main_subtitle">NAVI-OS // ASISTEN PRIBADI</string>
+    <string name="boot_line_header">NAVI-OS v0.1 // URUTAN BOOT</string>
+    <string name="boot_line_memory">&gt; memeriksa memori lokal ....... OK</string>
+    <string name="boot_line_core">&gt; memuat AI core ............... STANDBY</string>
+    <string name="boot_line_link">&gt; menguji tautan jaringan ...... %1$s</string>
+    <string name="boot_line_widget">&gt; modul widget ................. SIAP</string>
+    <string name="boot_line_ready">&gt; menunggu perintah</string>
+    <string name="name_label">IDENTITAS PENGGUNA</string>
+    <string name="name_hint">NAMA ANDA</string>
+    <string name="save_name_button">[ SIMPAN ]</string>
+    <string name="pin_widget_button">[ PASANG WIDGET ]</string>
+    <string name="open_chat_button">[ BUKA LINK PERCAKAPAN ]</string>
+    <string name="feedback_name_saved">&gt; IDENTITAS TERSIMPAN: %1$s</string>
+    <string name="feedback_pin_requested">&gt; PERMINTAAN DIKIRIM. KONFIRMASI DI LAYAR.</string>
+    <string name="feedback_pin_manual">&gt; TEKAN LAMA HOME SCREEN &gt; WIDGET &gt; NAVI.</string>
+
+    <!-- Layar percakapan -->
+    <string name="chat_title">NAVI // LINK</string>
+    <string name="chat_placeholder">Modul percakapan belum aktif.\nInput teks dibuat di Tahap 2; suara, memori, dan AI menyusul.</string>
+    <string name="chat_back_button">[ KEMBALI ]</string>
+</resources>

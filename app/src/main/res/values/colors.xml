@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navi_bg">#FF050B14</color>
+    <color name="navi_panel">#FF0A1626</color>
+    <color name="navi_cyan">#FF00E5FF</color>
+    <color name="navi_cyan_dim">#FF2A8FA0</color>
+    <color name="navi_green">#FF39FF9A</color>
+    <color name="navi_green_dim">#FF1FA86A</color>
+    <color name="navi_amber">#FFFFB000</color>
+    <color name="navi_line">#5500E5FF</color>
+    <color name="navi_glow">#8800E5FF</color>
+    <color name="ic_launcher_background">#FF050B14</color>
+</resources>

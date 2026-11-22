@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NaviButton" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@drawable/navi_button_bg</item>
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textColor">@color/navi_cyan</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+    </style>
+
+    <style name="NaviLabel">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textColor">@color/navi_cyan_dim</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:letterSpacing">0.15</item>
+    </style>
+</resources>
